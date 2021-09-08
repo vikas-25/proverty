@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  padding-top: 200px;
+   color: red;
+ }
+ a:link {
+  color: red;
+  
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  
+}
+
+/* mouse over link */
+a:hover {
+  color: pink;
+  
+}
+
+/* selected link */
+a:active {
+  color: blue;
+
+}
+
+  
